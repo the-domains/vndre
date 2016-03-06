@@ -1,0 +1,28 @@
+name: vndre
+favicon: null
+layout_spectrum: 0.5488248143810779
+typography_spectrum: 0.6548350492957979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8786519200075418
+  lightness: 0.6964774902444333
+  saturation: 0.8809203945565969
+  rhythmicContrast: 0.9740204147528857
+purpose: []
